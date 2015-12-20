@@ -1,6 +1,3 @@
-import os
-
-
 def boxSurfaceArea(l, w, h):
     return 2 * l * w + 2 * w * h + 2 * h * l
 
